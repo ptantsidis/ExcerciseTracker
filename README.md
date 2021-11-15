@@ -9,4 +9,4 @@ add new cercises to workout
  View combined weight of all exercises of last 7 workouts on the stats page.
  View total duration of each workout from  last 7 workouts on the stats page.
  Install npm express, mongo, mongoose, nodemon, morgan.
- create schema, so seeded data with already formatted seeds could be uploaded.
+ create schema, so seeded data with already formatted seeds could be uploaded.![workout_pic](https://user-images.githubusercontent.com/90045665/141791185-45ba46c7-11e1-494d-a99f-61327bc318cb.png)
