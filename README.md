@@ -35,7 +35,7 @@ ____
   node server
 
   ## Contributions
-  Phil Tantsidis banck end connections, schema, seed data and updates.
+  Phil Tantsidis back end connections, schema, seed data and updates.
     
   ###  Contact
   ptantsidis@hotmail.com
